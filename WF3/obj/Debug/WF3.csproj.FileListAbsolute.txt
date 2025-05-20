@@ -1,0 +1,10 @@
+D:\visual prog\WF3\WF3\bin\Debug\WF3.exe.config
+D:\visual prog\WF3\WF3\bin\Debug\WF3.exe
+D:\visual prog\WF3\WF3\bin\Debug\WF3.pdb
+D:\visual prog\WF3\WF3\obj\Debug\WF3.csproj.AssemblyReference.cache
+D:\visual prog\WF3\WF3\obj\Debug\WF3.Form1.resources
+D:\visual prog\WF3\WF3\obj\Debug\WF3.Properties.Resources.resources
+D:\visual prog\WF3\WF3\obj\Debug\WF3.csproj.GenerateResource.cache
+D:\visual prog\WF3\WF3\obj\Debug\WF3.csproj.CoreCompileInputs.cache
+D:\visual prog\WF3\WF3\obj\Debug\WF3.exe
+D:\visual prog\WF3\WF3\obj\Debug\WF3.pdb
