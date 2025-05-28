@@ -1,0 +1,10 @@
+D:\visual prog\WF4\WF4\bin\Debug\WF4.exe.config
+D:\visual prog\WF4\WF4\bin\Debug\WF4.exe
+D:\visual prog\WF4\WF4\bin\Debug\WF4.pdb
+D:\visual prog\WF4\WF4\obj\Debug\WF4.csproj.AssemblyReference.cache
+D:\visual prog\WF4\WF4\obj\Debug\WF4.Form1.resources
+D:\visual prog\WF4\WF4\obj\Debug\WF4.Properties.Resources.resources
+D:\visual prog\WF4\WF4\obj\Debug\WF4.csproj.GenerateResource.cache
+D:\visual prog\WF4\WF4\obj\Debug\WF4.csproj.CoreCompileInputs.cache
+D:\visual prog\WF4\WF4\obj\Debug\WF4.exe
+D:\visual prog\WF4\WF4\obj\Debug\WF4.pdb
